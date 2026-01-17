@@ -30,6 +30,7 @@ __Check even if you have Windows 11.__ Go to the standard (system) settings of W
 | _64-bit operating system, processor based on **ARM** architecture_ | __WON'T WORK!!!__ |
 
 ## INSTALLATION
+1) Download the archive and unzip it;
 1) Run the required file (described a little higher);
 2) Wait for the window with a message about successful installation to appear (it may take some time);
 3) Click "Close";
