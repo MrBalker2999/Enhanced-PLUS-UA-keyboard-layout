@@ -1,20 +1,33 @@
 # Ukrainian (extended) layout for Windows
-This extended layout includes russian characters from their standard location in the russian layout, and also fixes the shortcoming of the standard extended Ukrainian layout, due to which the capital "ґ" is not written with *CapsLock* pressed.  
+This extended layout includes russian characters from their standard location in the russian layout, and also fixes the shortcoming of the standard extended Ukrainian layout, due to which the capital "ґ" is not written with *Caps Lock* pressed.  
 Designed for people who have switched or are switching to the Ukrainian language, but have a russified past, semi-conservative people who simply cannot move away from the use of russian or Internet trolls.
 
-## HOW TO USE
-When pressing the right *Alt* and the key of certain letters, the russian letter will be written.  
-If you also press *Shift* &mdash; a capital letter will be printed. Switching *CapsLock* also works.
 
-| Button | Result with the right *Alt* pressed |
-| --- | --- |
+## HOW TO USE
+When pressing the *right Alt* and the key of certain letters, the russian letter will be written.  
+If you also press *Shift* &mdash; a capital letter will be printed. Switching *Caps Lock* also works.
+
+| Button | Result with the *right Alt* pressed |
+| ---: | --- |
 | і | ы |
 | ї | ъ |
 | є | э |
 | ' | ё |
 | г | ґ (reminder) |
 
-___
+#### WORKING PRINCIPLE (EXAMPLE OF THE LETTER "ї")
+_Alt_ means _right Alt_  
+_Caps Lock_ shows the on or off status, not pressed and held
+
+| Alt | Shift | Caps Lock | Button | Result |
+|:---:|:---:|:---:| ---:| --- |
+| - | - | - | ї | ї |
+| + | - | - | ї | ъ |
+| + | + | - | ї | Ъ |
+| + | - | + | ї | Ъ |
+| + | + | + | ї | ъ |
+
+---
 
 # GETTING STARTED
 Tested on Windows 11. Instructions will also be for it. On systems older than Windows 10, testing has not been conducted and work is not guaranteed.
