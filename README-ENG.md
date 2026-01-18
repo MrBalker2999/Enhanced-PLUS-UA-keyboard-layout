@@ -60,11 +60,11 @@ Yes, absolutely. You are not removing the language, but only the keyboard (layou
 
 * *After updating Windows, I have the standard layout again. What should I do?*  
 This is how Windows works and, unfortunately, I cannot fix it. There are 2 solutions here and both are crutches.
-- Restart your computer. Windows doesn't always clean up after an update.
-- If the previous option didn't help: go to the standard (system) Windows settings -> Time and Language -> Language and Region -> ellipsis next to Ukrainian -> Language Options -> Add a keyboard -> "Ukrainian" (you probably need to add it, not the enhanced one) -> ellipsis next to "Ukrainian" (yes, this is the one that was just installed) -> Delete.
+  - Restart your computer. Windows doesn't always clean up after an update.
+  - If the previous option didn't help: go to the standard (system) Windows settings -> Time and Language -> Language and Region -> ellipsis next to Ukrainian -> Language Options -> Add a keyboard -> "Ukrainian" (you probably need to add it, not the enhanced one) -> ellipsis next to "Ukrainian" (yes, this is the one that was just installed) -> Delete.
 
 * *The name of the installation file has "amd" in it, but I have an Intel processor. Will this work on my computer?*  
-Yes, it will. Let's take a closer look at the name. amd64 — this is: a 64-bit x86 architecture created by AMD, fully compatible with Intel 64. That is, it will work on Ryzen, Intel Core, and even Xeon. In Windows it is usually called x64, x86-64 or amd64. It is the same thing.
+Yes, it will. amd64 is a 64-bit x86 architecture created by AMD, fully compatible with Intel 64. That is, it will work on Ryzen, Intel Core, and even Xeon. In Windows it is usually called x64, x86-64 or amd64. It is the same thing.
 
 ---
 
@@ -76,12 +76,12 @@ Twitter (X): [Vladyslav](https://x.com/MrBalker_2999) &mdash; write questions, s
 
 ### Version history
 * 1.1
-* Moved by _ё_
-* Added ~ ` # $ € ^ [ { } ] — – ± ≠ | < >
-* Inspired by the work [described here](https://r2u.org.ua/wiki/keyboard/UkrainianUnicode).
+  * Moved _ё_
+  * Added ~ ` # $ € ^ [ { } ] — – ± ≠ | < >
+  * Inspired by the work [described here](https://r2u.org.ua/wiki/keyboard/UkrainianUnicode)
 * 1.0
-* Added russian letters.
+  * Added russian letters
 
 ### Licenses
-The project is licensed under the MIT license. Read more in *LICENSE.md*.
+The project is licensed under the MIT license. Read more in *LICENSE.md*.  
 Created with _Microsoft Keyboard Layout Creator 1.4_.
