@@ -1,6 +1,10 @@
 # Ukrainian (enhanced+) layout for Windows
 Enhanced-PLUS-UA is a custom Ukrainian keyboard layout for Windows, extended with additional symbols and optional Russian letters for occasional use, without affecting the primary Ukrainian layout.  
-It includes Russian characters in their standard positions, as in a regular Russian layout, fixes a long-standing issue in the standard Ukrainian (Enhanced) layout (capital "Ґ" now types correctly with *Caps Lock*), and adds some symbols that are normally only available on the English layout.
+
+It includes:
+- Russian characters in their standard positions, as in a regular Russian layout;
+- fixes a long-standing issue in the standard Ukrainian (Enhanced) layout (capital "Ґ" now types correctly with *Caps Lock*);
+- adds some symbols that are normally only available on the English layout.
 
 ### Who is this for?
 For people who have switched or are switching to the Ukrainian language, but have a russified past, Internet trolls and anyone who will find this useful.
